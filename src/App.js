@@ -4,6 +4,8 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import Meeting from "./components/Meeting";
 import Welcome from "./components/Welcome";
+import Signup from "./components/Signup";
+import Login from "./components/Login";
 
 function App() {
   return (
